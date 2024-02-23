@@ -4,11 +4,10 @@
 x = 0
 while x < 10:
     x += 1
-    print(f"Loop infinito {x}")
+    print(f"Loop {x}")
 
 # For Loop
 for x in range(1, 11):
-    print(f"Loop finito {x}")
+    print(f"Loop {x}")
 
 
-    
