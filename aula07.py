@@ -3,7 +3,8 @@
 # Listas
 
 # Listas são coleções de itens em uma ordem específica. Podem conter qualquer tipo de dado, inclusive outras listas.
-# A lista é definida por colchetes [] e os itens são separados por vírgula.
+# A lista é definida por colchetes [] e os itens são separados por vírgula. 
+# Listas são mutáveis, ou seja, os itens podem ser alterados, adicionados ou removidos.
 
 empty_list = []
 print(empty_list)
