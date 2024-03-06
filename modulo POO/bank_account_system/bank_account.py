@@ -24,6 +24,7 @@ class BankAccount:
         self.balance -= amount
         return self.balance
     
+    # nome do método: check_balance - por convenção - snake_case
     def check_balance(self):
         return self.balance
 
