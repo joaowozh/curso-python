@@ -1,5 +1,5 @@
-name = "Marcos" # string
-age = 25 # int
+name = "João" # string
+age = 15 # int
 document = 123456789 # int
 document_valid = True # bool
 
